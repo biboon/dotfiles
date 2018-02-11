@@ -1,0 +1,13 @@
+rofi.font:            Source Code Pro Light 22
+rofi.modi:            drun
+rofi.fuzzy:           true
+rofi.hide-scrollbar:  true
+rofi.scroll-method:   1
+
+rofi.padding:         480
+rofi.fullscreen:      true
+rofi.bw:              0
+
+rofi.color-window: argb:ca070707, argb:00000000, argb:00000000
+rofi.color-normal: argb:00000000, argb:ff757575, argb:00000000, argb:00000000, argb:ffeeeeee
+

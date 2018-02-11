@@ -1,0 +1,51 @@
+[options]
+allow_bold = false
+resize_grip = false
+scroll_on_output = false
+scroll_on_keystroke = true
+dynamic_title = false
+clickable_url = true
+search_wrap = false
+font = Source Code Pro 12
+
+
+[colors]
+
+# special
+foreground      = #c5c5c5
+foreground_bold = #c5c5c5
+cursor          = #c5c5c5
+background      = rgba(7, 7, 7, 0.85)
+
+# black
+color0  = #1c1c1c
+color8  = #666666
+
+# red
+color1  = #ff005b
+color9  = #ff00a0
+
+# green
+color2  = #cee318
+color10 = #ccff00
+
+# yellow
+color3  = #ffe755
+color11 = #ff9f00
+
+# blue
+color4  = #048ac7
+color12 = #48c6ff
+
+# magenta
+color5  = #833c9f
+color13 = #be67e1
+
+# cyan
+color6  = #0ac1cd
+color14 = #63e7f0
+
+# white
+color7  = #e5e5e5
+color15 = #f3f3f3
+
