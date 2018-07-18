@@ -6,7 +6,10 @@ scroll_on_keystroke = true
 dynamic_title = false
 clickable_url = true
 search_wrap = false
-font = Source Code Pro 12
+font = Source Code Pro 13
+cursor_shape = underline
+geometry = 960x540
+mouse_autohide = true
 
 
 [colors]
